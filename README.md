@@ -4,7 +4,7 @@ Hover any item  you want (in DOM)
 After include this script just add ``id="hoverItem"`` to any DOM element wich you want to hover <br /> 
 and replace ``pulseNeon`` to your CSS ``class`` <br /><br />
 
-## Example
+## Example sandbox: <a href="https://codesandbox.io/s/jolly-sound-895t5z?file=/index.html" target="_blank">VIEW</a>
 
 
 
